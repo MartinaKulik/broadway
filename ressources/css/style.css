@@ -15,7 +15,7 @@ ul{
 }
 
 #header{
-  background-image: url("ressources\images\the-flatiron-building.png");
+  background: url("ressources\images\the-flatiron-building.png");
 }
 
 h2{
@@ -36,7 +36,7 @@ p{
   font-size: 23px;
   font-weight: bold;
   color: white;
-  background-image: url("ressources\images\the-flatiron-building.png");
+  background: url("ressources\images\the-flatiron-building.png");
 
 }
 
@@ -44,4 +44,9 @@ footer{
   font-size: 11px;
   color: white;
   background-color: dimgray;
+  text-align: left;
+}
+
+a{
+  color:white;
 }
